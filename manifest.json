@@ -1,10 +1,10 @@
 {
- "content_version": 2,
+ "content_version": 3,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=2",
- "pck_sha256": "b3dce6942b319f866daa9a3c4256948cf48f3f72ce56d28d1d74ff579246ea2e",
- "pck_bytes": 4532732,
- "notes": "teste do canal OTA (mesmo conteudo da 0.5.2)",
- "source_commit": "c4e695f"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=3",
+ "pck_sha256": "f2ed2738450659311e9a000490693e7f8848d113b87d62fe8c24ad277f756e9c",
+ "pck_bytes": 4532812,
+ "notes": "hub compacto + versao 0.5.2",
+ "source_commit": "71ac034"
 }
