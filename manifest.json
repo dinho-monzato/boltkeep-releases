@@ -1,10 +1,10 @@
 {
- "content_version": 3,
+ "content_version": 4,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=3",
- "pck_sha256": "f2ed2738450659311e9a000490693e7f8848d113b87d62fe8c24ad277f756e9c",
- "pck_bytes": 4532812,
- "notes": "hub compacto + versao 0.5.2",
- "source_commit": "71ac034"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=4",
+ "pck_sha256": "cc64bb2413769ded0c65759ea3243ec3a42c31298501e8e7744c856bf081f76c",
+ "pck_bytes": 4539520,
+ "notes": "playtest 2: orbe, cruz, fogueira suga XP, empurrao, Forca/Pressa/Precisao",
+ "source_commit": "3cc1702"
 }
