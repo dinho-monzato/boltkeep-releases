@@ -1,10 +1,10 @@
 {
- "content_version": 5,
+ "content_version": 6,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=5",
- "pck_sha256": "21dd758e80fa93e928ac5c88a86f4ebaca7608cfeacfff980ac1e794cc9d5853",
- "pck_bytes": 4549872,
- "notes": "playtest 3: caos, cerco/estouro, arqueiro, gosma explosiva, bau grande",
- "source_commit": "a5e4513"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=6",
+ "pck_sha256": "1ae26a5eeb227c433f400068027349a5eda2c0ec5dbfb4cb19a33ee36cd62668",
+ "pck_bytes": 4555836,
+ "notes": "desbloqueios + hub em abas + bau visivel",
+ "source_commit": "37520fc"
 }
