@@ -1,10 +1,10 @@
 {
- "content_version": 8,
+ "content_version": 9,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=8",
- "pck_sha256": "b44b8417fa0eb18f1c9ea48f1a810efcec025b59ac564804919d81162be1b43c",
- "pck_bytes": 4576568,
- "notes": "equipamento: 3 slots, 9 itens, 4 raridades",
- "source_commit": "246f4e0"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=9",
+ "pck_sha256": "27dc8a1a0e40c25ee091ca88eca2fb71f13794eef980204cea172aae0e582173",
+ "pck_bytes": 4584328,
+ "notes": "FPS: teto da horda, chao infinito, HUD na area segura",
+ "source_commit": "fb4eae8"
 }
