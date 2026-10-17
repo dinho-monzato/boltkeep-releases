@@ -1,10 +1,10 @@
 {
- "content_version": 10,
+ "content_version": 11,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=10",
- "pck_sha256": "46c38fb5e7df8d1d62c67e96c2e4c81a56ca159c215f456a8c556b2960ceb215",
- "pck_bytes": 4642108,
- "notes": "hub novo, telemetria, tutorial, pausa com build, sons novos",
- "source_commit": "011ecb6"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=11",
+ "pck_sha256": "a748a6701e344761ef6c4c63c599943f9eb608c37426626feed30f60bcc06259",
+ "pck_bytes": 9309424,
+ "notes": "Capitulo 2 Catacumbas + Pesadelo + save/dev tools",
+ "source_commit": "cf3b2ec"
 }
