@@ -1,10 +1,10 @@
 {
- "content_version": 12,
- "min_apk_code": 159,
- "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=12",
- "pck_sha256": "cdf704b985e072234a03c7385550acd185e0fff06ebf99061da64c1c0b9dcf6d",
- "pck_bytes": 9309712,
- "notes": "v0.6.0: economia, cap 2 balanceado, kit do playtest",
- "source_commit": "7c3774f"
+ "content_version": 13,
+ "min_apk_code": 160,
+ "apk_code": 160,
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=13",
+ "pck_sha256": "c0c23616d9227cdaea9824b6a820337978f52a6959b9aa141f61495c54b53fea",
+ "pck_bytes": 9359856,
+ "notes": "beta 1.0: classes, armas novas, armas equipaveis, UI moderna",
+ "source_commit": "6ad0aaf"
 }
