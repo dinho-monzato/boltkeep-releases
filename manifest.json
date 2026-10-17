@@ -1,10 +1,10 @@
 {
- "content_version": 9,
+ "content_version": 10,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=9",
- "pck_sha256": "27dc8a1a0e40c25ee091ca88eca2fb71f13794eef980204cea172aae0e582173",
- "pck_bytes": 4584328,
- "notes": "FPS: teto da horda, chao infinito, HUD na area segura",
- "source_commit": "fb4eae8"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=10",
+ "pck_sha256": "46c38fb5e7df8d1d62c67e96c2e4c81a56ca159c215f456a8c556b2960ceb215",
+ "pck_bytes": 4642108,
+ "notes": "hub novo, telemetria, tutorial, pausa com build, sons novos",
+ "source_commit": "011ecb6"
 }
