@@ -1,10 +1,10 @@
 {
- "content_version": 11,
+ "content_version": 12,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=11",
- "pck_sha256": "a748a6701e344761ef6c4c63c599943f9eb608c37426626feed30f60bcc06259",
- "pck_bytes": 9309424,
- "notes": "Capitulo 2 Catacumbas + Pesadelo + save/dev tools",
- "source_commit": "cf3b2ec"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=12",
+ "pck_sha256": "cdf704b985e072234a03c7385550acd185e0fff06ebf99061da64c1c0b9dcf6d",
+ "pck_bytes": 9309712,
+ "notes": "v0.6.0: economia, cap 2 balanceado, kit do playtest",
+ "source_commit": "7c3774f"
 }
