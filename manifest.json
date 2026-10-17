@@ -1,10 +1,10 @@
 {
- "content_version": 7,
+ "content_version": 8,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=7",
- "pck_sha256": "965dda3643206a98792427562dfd0df15c5f5e44ae579d03efd191180c03fcd9",
- "pck_bytes": 4563572,
- "notes": "arvore de talentos + trocar/banir + segunda chance + arma inicial",
- "source_commit": "a8b7808"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=8",
+ "pck_sha256": "b44b8417fa0eb18f1c9ea48f1a810efcec025b59ac564804919d81162be1b43c",
+ "pck_bytes": 4576568,
+ "notes": "equipamento: 3 slots, 9 itens, 4 raridades",
+ "source_commit": "246f4e0"
 }
