@@ -1,10 +1,10 @@
 {
- "content_version": 6,
+ "content_version": 7,
  "min_apk_code": 159,
  "apk_code": 159,
- "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=6",
- "pck_sha256": "1ae26a5eeb227c433f400068027349a5eda2c0ec5dbfb4cb19a33ee36cd62668",
- "pck_bytes": 4555836,
- "notes": "desbloqueios + hub em abas + bau visivel",
- "source_commit": "37520fc"
+ "pck_url": "https://raw.githubusercontent.com/dinho-monzato/boltkeep-releases/ota-v2/content.pck?v=7",
+ "pck_sha256": "965dda3643206a98792427562dfd0df15c5f5e44ae579d03efd191180c03fcd9",
+ "pck_bytes": 4563572,
+ "notes": "arvore de talentos + trocar/banir + segunda chance + arma inicial",
+ "source_commit": "a8b7808"
 }
